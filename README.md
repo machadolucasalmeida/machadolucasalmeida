@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hello guys!!! Lucas's here 🖖
 
-<!--
-**machadolucasalmeida/machadolucasalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm currently studying Computer science
+- 👨‍💻 I’m learning Java ☕
+- 💡 Interesting projects are coming...
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/machadolucasalmeida">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=machadolucasalmeida&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadolucasalmeida&layout=compact&langs_count=7&theme=blue-green"/>
+
+</div>
+  
+  
+<div>
+  
+   ![Snake animation](https://github.com/machadolucasalmeida/machadolucasalmeida/blob/output/github-contribution-grid-snake.svg)
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Java" height="30" width="40" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+</div>
+  
+  ##
+  
+  
+  
+  <a href="https://www.linkedin.com/in/machado-lucasalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+   
+  
+  
+</div>
