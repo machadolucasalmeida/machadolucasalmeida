@@ -25,7 +25,7 @@
    ##
     
   <p align="center">
-    <img windth="300" height = "300" img align="left" src="https://github.com/machadolucasalmeida/machadolucasalmeida/blob/main/NUX_Octodex.gif?raw=true">
+    <img windth="250" height = "250" img align="left" src="https://github.com/machadolucasalmeida/machadolucasalmeida/blob/main/NUX_Octodex.gif?raw=true">
          
   </p>
 
