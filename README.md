@@ -16,13 +16,15 @@
   
 <div>
   
-   ![Snake animation](https://github.com/machadolucasalmeida/machadolucasalmeida/blob/output/github-contribution-grid-snake.svg)
-  
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="30" width="40" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
+   ![Snake animation](https://github.com/machadolucasalmeida/machadolucasalmeida/blob/output/github-contribution-grid-snake.svg)
+  
+  
     
-   ##
+ ##
     
   <p align="center">
     <img windth="200" height = "200" img align="left" src="https://github.com/machadolucasalmeida/machadolucasalmeida/blob/main/NUX_Octodex.gif?raw=true">
