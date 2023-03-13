@@ -1,7 +1,8 @@
 ## Hello guys!!! Lucas's here 🖖
 
-- 🎓 I'm currently studying Computer science
-- 👨‍💻 I’m learning Java ☕
+- 🎓 Computer Science Student
+- 👨‍💻 I’m currently learning web development (Front-End) - JavaScript, HTML5, CSS3
+- 😄 Future fullstack developer 
 - 💡 Interesting projects are coming...
 
 ##
